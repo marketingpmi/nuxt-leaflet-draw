@@ -1,6 +1,13 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.28 (2022-09-09)
+
+
+### Bug Fixes
+
+* **types,icons:** load icons from leaflet locally & declare type file location ([de2f760](https://github.com/schlunsen/nuxt-leaflet/commit/de2f7600c163c7bff790ba5ed3136e3a43ecdd1f))
 
 <a name=""></a>
 # [](https://github.com/schlunsen/nuxt-leaflet/compare/v0.0.11...v) (2019-01-18)
