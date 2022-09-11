@@ -1,6 +1,6 @@
 {
   "name": "nuxt-leaflet-draw",
-  "version": "0.0.42",
+  "version": "0.0.43",
   "description": "Nuxt module for leafletjs",
   "license": "MIT",
   "contributors": [

@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.43](https://github.com/marketingpmi/nuxt-leaflet-draw/compare/v0.0.42...v0.0.43) (2022-09-11)
+
 ### [0.0.42](https://github.com/marketingpmi/nuxt-leaflet-draw/compare/v0.0.40...v0.0.42) (2022-09-11)
 
 ### [0.0.40](https://github.com/marketingpmi/nuxt-leaflet-draw/compare/v0.0.38...v0.0.40) (2022-09-11)
