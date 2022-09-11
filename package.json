@@ -1,17 +1,15 @@
 {
   "name": "nuxt-leaflet-draw",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "description": "Nuxt module for leafletjs",
   "license": "MIT",
   "contributors": [
-    {
-      "name": "Alessandro Marocchini"
-    }
+    "Alessandro Marocchini"
   ],
   "main": "lib/module.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:marketingpmi/nuxt-leaflet-draw.git"
+    "url": "git+ssh://git@github.com/marketingpmi/nuxt-leaflet-draw.git"
   },
   "publishConfig": {
     "access": "public"
@@ -62,6 +60,11 @@
   "bugs": {
     "url": "https://github.com/schlunsen/nuxt-leaflet/issues"
   },
-  "readme": "https://github.com/schlunsen/nuxt-leaflet#readme",
-  "homepage": "https://github.com/schlunsen/nuxt-leaflet#readme"
+  "homepage": "https://github.com/schlunsen/nuxt-leaflet#readme",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "Alessandro Marocchini"
 }
